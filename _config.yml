@@ -1,0 +1,28 @@
+name: TesJS
+favicon: null
+layout_spectrum: 0.42829033825546503
+typography_spectrum: 0.0788142781239003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.09180525201372802
+  lightness: 0.11935317073948681
+  saturation: 0.7072328021749854
+  rhythmicContrast: 0.3827699467074126
+purpose: []
