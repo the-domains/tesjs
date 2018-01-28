@@ -1,28 +1,37 @@
-name: TesJS
-favicon: null
-layout_spectrum: 0.42829033825546503
-typography_spectrum: 0.0788142781239003
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.17457638858513225
+typography_spectrum: 0.5804812108219075
+color:
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+  brandStrength: 0.4014914758134597
+  lightness: 0.04169759708926967
+  saturation: 0.2080027699350647
+  rhythmicContrast: 0.21005102488857758
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.09180525201372802
-  lightness: 0.11935317073948681
-  saturation: 0.7072328021749854
-  rhythmicContrast: 0.3827699467074126
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SCRUMCULT.org
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: SCRUMCULT
+content: []
+description: Agile for a better world!
 purpose: []
+url: 'http://www.scrumcult.org'
+author:
+  name: Jerome Schuit
+  email: jerome.schuit@scrumcult.org
+  url: 'http://www.scrumcult.org'
+github: true
